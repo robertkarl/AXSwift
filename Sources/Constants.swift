@@ -120,6 +120,7 @@ public enum Role: String {
     case layoutArea         = "AXLayoutArea"
     case layoutItem         = "AXLayoutItem"
     case handle             = "AXHandle"
+    case webArea            = "AXWebArea"
 }
 
 /// All UIElement subroles.
